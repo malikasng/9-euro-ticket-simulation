@@ -1,0 +1,11 @@
+timeStep areaDensityCounting-PID5 areaDensityCounting-PID6 areaDensityCounting-PID7 areaDensityCounting-PID8 areaDensityCounting-PID9 areaDensityCounting-PID10 areaDensityCounting-PID11 areaDensityCounting-PID12 areaDensityCounting-PID13 areaDensityCounting-PID14 areaDensityCounting-PID15 areaDensityCounting-PID16 areaDensityCounting-PID17
+1 0 0 12 0 10 6 0 0 10 0 10 0 6
+2 0 0 12 0 10 6 0 0 10 0 10 0 6
+3 2 6 14 4 6 8 3 0 7 5 13 3 7
+4 3 7 13 4 6 9 4 0 5 6 14 3 9
+5 7 7 11 4 6 11 4 0 5 10 10 6 10
+6 8 7 11 5 5 12 5 0 6 11 7 7 11
+7 9 7 11 6 5 14 6 0 7 10 6 8 13
+8 9 7 11 6 5 16 6 0 7 9 8 11 11
+9 11 7 11 6 5 16 6 0 7 9 8 13 11
+10 14 7 11 7 4 15 6 0 7 8 9 13 13

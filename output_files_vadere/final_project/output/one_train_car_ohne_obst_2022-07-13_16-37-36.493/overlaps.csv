@@ -1,0 +1,2 @@
+#IDXCOL=3,DATACOL=2,SEP=' '
+timeStep pedestrianId overlapPedestrianId distance-PID3 overlaps-PID3

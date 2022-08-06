@@ -1,0 +1,3 @@
+#IDXCOL=0,DATACOL=1,SEP=' '
+nr_overlaps-PID4
+51
