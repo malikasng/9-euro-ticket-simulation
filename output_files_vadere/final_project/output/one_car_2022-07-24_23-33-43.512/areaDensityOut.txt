@@ -1,5 +1,0 @@
-#IDXCOL=1,DATACOL=6,SEP=' '
-timeStep areaDensityCounting-PID5 areaDensityCounting-PID7 areaDensityCounting-PID8 areaDensityCounting-PID9 areaDensityCounting-PID10 areaDensityCounting-PID11
-1 0 0 5 0 10 6
-2 0 0 5 0 10 6
-3 2 1 4 4 6 8
